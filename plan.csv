@@ -1,0 +1,26 @@
+dzien,godz,przedmiot,grupa,nauczyciel,sala,typ,uwagi
+Poniedziałek,12:oo,"Metody obliczeniowe","informatyka: III rok","dr Karolina Kropielnicka",2,wykład,
+Poniedziałek,13:oo,"Metody obliczeniowe","informatyka: III rok","dr Karolina Kropielnicka",2,wykład,
+Wtorek,8:oo,"Metody obliczeniowe","informatyka: III rok sp. Tester programista gr. 2","dr Danuta Jaruszewska-Walczak",210,laboratorium,
+Wtorek,9:oo,"Metody obliczeniowe","informatyka: III rok sp. Tester programista gr. 2","dr Danuta Jaruszewska-Walczak",210,laboratorium,
+Wtorek,10:oo,"Sieci komputerowe","informatyka: III rok","dr inż. Jerzy Skurczyński",3,wykład,
+Wtorek,11:oo,"Sieci komputerowe","informatyka: III rok","dr inż. Jerzy Skurczyński",3,wykład,
+Środa,8:oo,"Inżynieria oprogramowania/Projekt zespołowy","informatyka: III rok sp. Tester programista gr. 2","dr Robert Fidytek",51,laboratorium,"Inżynieria oprogramowania do 5 XI; Projekt zespołowy od 6 XI"
+Środa,9:oo,"Inżynieria oprogramowania/Projekt zespołowy","informatyka: III rok sp. Tester programista gr. 2","dr Robert Fidytek",51,laboratorium,"Inżynieria oprogramowania do 5 XI; Projekt zespołowy od 6 XI"
+Środa,10:oo,"Inżynieria oprogramowania/Projekt zespołowy","informatyka: III rok sp. Tester programista gr. 2","dr Robert Fidytek",51,laboratorium,"Inżynieria oprogramowania do 5 XI; Projekt zespołowy od 6 XI"
+Środa,11:oo,"Wprowadzenie do testowania oprogramowania","informatyka: III rok sp. Tester programista gr. 2","dr hab. prof. UG Maria Ganzha",109,laboratorium," zajęcia od  6.11"
+Środa,12:oo,"Wprowadzenie do testowania oprogramowania","informatyka: III rok sp. Tester programista gr. 2","dr hab. prof. UG Maria Ganzha",109,laboratorium," zajęcia od  6.11"
+Środa,13:oo,"Wprowadzenie do testowania oprogramowania","informatyka: III rok sp. Tester programista gr. 2","dr hab. prof. UG Maria Ganzha",109,laboratorium," zajęcia od  6.11"
+Środa,14:oo,"Wprowadzenie do testowania oprogramowania","informatyka: III rok sp. Tester programista","dr hab. prof. UG Maria Ganzha",2,wykład,"zajęcia od  6.11"
+Środa,14:oo,"Inżynieria oprogramowania","informatyka: III rok","dr hab. prof. UG Maria Ganzha",2,wykład,"zajęcia do  5.11"
+Środa,15:oo,"Wprowadzenie do testowania oprogramowania","informatyka: III rok sp. Tester programista","dr hab. prof. UG Maria Ganzha",2,wykład,"zajęcia od  6.11"
+Środa,15:oo,"Inżynieria oprogramowania","informatyka: III rok","dr hab. prof. UG Maria Ganzha",2,wykład,"zajęcia do  5.11"
+Środa,16:oo,"Wprowadzenie do testowania oprogramowania","informatyka: III rok sp. Tester programista","dr hab. prof. UG Maria Ganzha",2,wykład,"zajęcia od  6.11"
+Środa,16:oo,"Inżynieria oprogramowania","informatyka: III rok","dr hab. prof. UG Maria Ganzha",2,wykład,"zajęcia do  5.11"
+Czwartek,8:oo,"Testowanie aplikacji Ruby","informatyka: III rok sp. Tester programista","dr Włodzimierz Bzyl",309,wykład,
+Czwartek,9:oo,"Testowanie aplikacji Ruby","informatyka: III rok sp. Tester programista","dr Włodzimierz Bzyl",309,wykład,
+Czwartek,12:oo,"Sieci komputerowe","informatyka: III rok sp. Tester programista gr. 2","dr inż. Jerzy Skurczyński",109,laboratorium,
+Czwartek,13:oo,"Sieci komputerowe","informatyka: III rok sp. Tester programista gr. 2","dr inż. Jerzy Skurczyński",109,laboratorium,
+Czwartek,15:oo,"Testowanie aplikacji Ruby","informatyka: III rok sp. Tester programista gr. 2","dr Włodzimierz Bzyl",210,laboratorium,
+Czwartek,16:oo,"Testowanie aplikacji Ruby","informatyka: III rok sp. Tester programista gr. 2","dr Włodzimierz Bzyl",210,laboratorium,
+Czwartek,17:oo,"Testowanie aplikacji Ruby","informatyka: III rok sp. Tester programista gr. 2","dr Włodzimierz Bzyl",210,laboratorium,
